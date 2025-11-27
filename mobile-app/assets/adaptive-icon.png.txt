@@ -1,0 +1,3 @@
+# This is a placeholder file
+# Replace with an actual adaptive icon foreground image (1024x1024)
+# Used for Android adaptive icons

@@ -1,0 +1,3 @@
+# This is a placeholder file
+# Replace with an actual splash screen image (1242x2436 recommended)
+# The splash screen is shown while the app loads

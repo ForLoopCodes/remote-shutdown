@@ -1,0 +1,2 @@
+# This is a placeholder file
+# Replace with an actual favicon (32x32 or 64x64) for web
