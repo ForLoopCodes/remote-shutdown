@@ -121,7 +121,6 @@ export const sendHibernateRequest = async (
     throw handleApiError(error);
   }
 };
-  
 
 /**
  * Cancel a scheduled shutdown/restart
