@@ -285,9 +285,7 @@ const InfoScreen: React.FC = () => {
                 >
                   {getLogIcon(log.type)}
                 </Text>
-                <Text style={styles.logMessage} numberOfLines={2}>
-                  {log.message}
-                </Text>
+                <Text style={styles.logMessage}>{log.message}</Text>
               </View>
             ))}
           </View>
