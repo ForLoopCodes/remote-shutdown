@@ -18,8 +18,8 @@ import {
   SystemAction,
 } from "../types";
 
-// Default timeout for requests (5 seconds)
-const DEFAULT_TIMEOUT = 5000;
+// Default timeout for requests (10 seconds - increased for slow networks)
+const DEFAULT_TIMEOUT = 10000;
 
 /**
  * Create axios instance with base configuration
